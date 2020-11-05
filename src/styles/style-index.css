@@ -1,0 +1,44 @@
+.form-control-style {
+    width: 161%;
+    height: 50%;
+    padding: 2px 3px 15px 0px;
+}
+
+.label-name {
+    font-size: 25px;
+}
+
+.input-text {
+    margin-left: 18px;
+    width: 63%;
+    height: 31px;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.connexion-form {
+    width: 257px;
+}
+
+.lien-retour {
+    color: #fff;
+}
+
+.inscription-form {
+    width: 257px;
+}
+
+.title-form {
+    color: red;
+}
+
+.button-form {
+    margin-left: 22px;
+    width: 51%;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
